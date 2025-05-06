@@ -5,3 +5,6 @@
 [submodule "mvord"]
 	path = mvord
 	url = https://github.com/lauravana/mvord
+[submodule "spareg"]
+	path = spareg
+	url = https://github.com/lauravana/spareg
